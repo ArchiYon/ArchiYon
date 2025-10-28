@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/ArchiYon_Logo - R01.1 jpg.jpg
+      url: /images/png.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
