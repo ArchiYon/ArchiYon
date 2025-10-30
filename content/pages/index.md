@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Precision-led retrofit architecture. PAS 2035 compliance, scenario
-        modeling, and compliance logic
+      text: Clarity. Compliance. Coordination
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
