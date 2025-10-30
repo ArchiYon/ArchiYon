@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Strategic retrofit architecture for real-world performance and regulatory
+      Strategic retrofit architecture for real world performance and regulatory
       alignment
     text: >
       Archiyon Ltd is a Bristol-based architecture firm specialising in PAS 2035
