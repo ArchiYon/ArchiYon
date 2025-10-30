@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Clarity. Compliance. Coordination
+      text: Clarity. Compliance. Coordination.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
