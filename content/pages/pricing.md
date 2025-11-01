@@ -23,7 +23,9 @@ sections:
           - >-
             Feasibility Studies – Assessing site potential, constraints, and
             development options.
-          - ''
+          - >-
+            Design & Access Statements – Supporting documents for planning
+            clarity and approval.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
