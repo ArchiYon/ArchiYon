@@ -757,5 +757,7 @@ seo:
     future-proof design and technical coordination.
   addTitleSuffix: true
   socialImage: /images/ArchiYon_Logo - R01.1 jpg.jpg
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
