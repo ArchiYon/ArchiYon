@@ -130,4 +130,5 @@ seo:
   type: Seo
   addTitleSuffix: true
 type: PageLayout
+isDraft: true
 ---
