@@ -28,7 +28,7 @@ sections:
             clarity and approval.
         image:
           url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
+          altText: Architecture.
           type: ImageBlock
         actions: []
         colors: bg-neutral-fg-dark
