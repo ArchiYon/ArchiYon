@@ -14,9 +14,9 @@ sections:
       - title: Architecture.
         price: ''
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          **Designing spaces with purpose, compliance, and clarity.**  
+
         features:
           - Feature one
           - Feature two
