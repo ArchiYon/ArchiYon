@@ -1,6 +1,6 @@
 ---
 title: 'Services '
-slug: pricing
+slug: Services
 sections:
   - title:
       text: 'Services '
