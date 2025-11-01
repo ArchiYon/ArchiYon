@@ -86,7 +86,7 @@ sections:
           **Flexible design solutions tailored to your space, goals, and
           vision.**
         features:
-          - Feature one
+          - 'Concept Development – Mood boards, sketches, and spatial strategies.'
           - Feature two
           - Feature three
           - Feature four
