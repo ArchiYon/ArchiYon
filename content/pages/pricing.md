@@ -117,7 +117,9 @@ sections:
     type: PricingSection
 seo:
   metaTitle: 'ArchiYon | PAS 2035 Retrofit Design & Coordination '
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: >-
+    Strategic retrofit planning and PAS 2035 compliance. ArchiYon delivers
+    future-proof design and technical coordination.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
