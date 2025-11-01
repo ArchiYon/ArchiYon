@@ -93,7 +93,9 @@ sections:
           - >-
             User-Centric Detailing – Layouts that support accessibility, flow,
             and wellbeing.
-          - Feature four
+          - >-
+            Brand-Integrated Spaces – For businesses, aligning physical design
+            with identity.
           - Feature five
         image:
           url: /images/abstract-feature3.svg
