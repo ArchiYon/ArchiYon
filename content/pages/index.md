@@ -752,5 +752,8 @@ sections:
 seo:
   type: Seo
   metaTitle: 'ArchiYon | PAS 2035 Retrofit Design & Coordination '
+  metaDescription: >-
+    Strategic retrofit planning and PAS 2035 compliance. ArchiYon delivers
+    future-proof design and technical coordination.
 type: PageLayout
 ---
