@@ -17,7 +17,7 @@ sections:
         description: |
           **Designing spaces with purpose, compliance, and clarity.** 
         features:
-          - Feature one
+          - "Planning Applications & Drawings\_- Site layouts, elevations, and technical plans for submission."
           - Feature two
           - Feature three
           - Feature four
