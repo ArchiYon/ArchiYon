@@ -52,7 +52,9 @@ sections:
           - >-
             PAS 2035 Coordination – End-to-end management of retrofit projects
             under UK standards.
-          - Feature two
+          - >-
+            Whole-House Assessments – Evaluating thermal performance,
+            ventilation, and fabric condition.
           - Feature three
           - Feature four
         image:
