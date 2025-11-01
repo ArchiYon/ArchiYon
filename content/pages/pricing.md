@@ -18,7 +18,7 @@ sections:
           **Designing spaces with purpose, compliance, and clarity.** 
         features:
           - "Planning Applications & Drawings\_- Site layouts, elevations, and technical plans for submission."
-          - Feature two
+          - "Building Regulations Compliance\_- Ensuring designs meet structural, fire safety, and accessibility standards."
           - Feature three
           - Feature four
         image:
