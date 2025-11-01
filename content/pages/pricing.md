@@ -14,9 +14,8 @@ sections:
       - title: Architecture.
         price: ''
         details: ''
-        description: |+
-          **Designing spaces with purpose, compliance, and clarity.**  
-
+        description: |
+          **Designing spaces with purpose, compliance, and clarit**
         features:
           - Feature one
           - Feature two
