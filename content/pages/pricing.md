@@ -61,7 +61,9 @@ sections:
           - >-
             Installer Briefings – Clear, actionable documentation for
             contractors and trades.
-          - ''
+          - >-
+            TrustMark & MCS Alignment – Ensuring projects meet certification and
+            funding requirements.
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
