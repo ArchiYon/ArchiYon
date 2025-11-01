@@ -66,7 +66,7 @@ sections:
             funding requirements.
         image:
           url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
+          altText: Retrofit.
           type: ImageBlock
         actions: []
         colors: bg-neutral-fg-dark
