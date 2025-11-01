@@ -82,10 +82,9 @@ sections:
       - title: Design.
         price: ''
         details: ''
-        description: |+
-
-          Flexible design solutions tailored to your space, goals, and vision.
-
+        description: >
+          **Flexible design solutions tailored to your space, goals, and
+          vision.**
         features:
           - Feature one
           - Feature two
