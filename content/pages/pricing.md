@@ -12,7 +12,7 @@ sections:
     subtitle: 'Architecture. Retrofit. Design. '
     plans:
       - title: Architecture.
-        price: Free
+        price: ''
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
