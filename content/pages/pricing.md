@@ -23,6 +23,7 @@ sections:
           - >-
             Feasibility Studies – Assessing site potential, constraints, and
             development options.
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
