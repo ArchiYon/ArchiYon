@@ -55,7 +55,9 @@ sections:
           - >-
             Whole-House Assessments – Evaluating thermal performance,
             ventilation, and fabric condition.
-          - Feature three
+          - >-
+            Scenario Modelling – Comparing measure combinations (e.g.
+            insulation, glazing, heating) for cost-effectiveness and impact.
           - Feature four
         image:
           url: /images/abstract-feature2.svg
