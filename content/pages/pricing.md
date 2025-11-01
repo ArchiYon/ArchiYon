@@ -4,7 +4,7 @@ slug: pricing
 sections:
   - title:
       text: 'Services '
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
