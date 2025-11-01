@@ -82,9 +82,10 @@ sections:
       - title: Design.
         price: ''
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |+
+
+          Flexible design solutions tailored to your space, goals, and vision.
+
         features:
           - Feature one
           - Feature two
