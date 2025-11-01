@@ -755,5 +755,6 @@ seo:
   metaDescription: >-
     Strategic retrofit planning and PAS 2035 compliance. ArchiYon delivers
     future-proof design and technical coordination.
+  addTitleSuffix: true
 type: PageLayout
 ---
