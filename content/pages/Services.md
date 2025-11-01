@@ -1,6 +1,6 @@
 ---
 title: 'Services '
-slug: Services
+slug: /Services
 sections:
   - title:
       text: Services
