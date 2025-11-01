@@ -19,7 +19,7 @@ sections:
         features:
           - "Planning Applications & Drawings\_- Site layouts, elevations, and technical plans for submission."
           - "Building Regulations Compliance\_- Ensuring designs meet structural, fire safety, and accessibility standards."
-          - Feature three
+          - "New Builds & Extensions\_- Concept to completion for residential or mixed-use developments."
           - Feature four
         image:
           url: /images/abstract-feature1.svg
