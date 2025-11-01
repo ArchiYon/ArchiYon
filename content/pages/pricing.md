@@ -61,6 +61,7 @@ sections:
           - >-
             Installer Briefings – Clear, actionable documentation for
             contractors and trades.
+          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
