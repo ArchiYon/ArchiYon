@@ -65,7 +65,7 @@ sections:
             TrustMark & MCS Alignment – Ensuring projects meet certification and
             funding requirements.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/ArchiYon_Logo - R01.1 jpg.jpg
           altText: Retrofit.
           type: ImageBlock
         actions: []
