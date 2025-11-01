@@ -20,7 +20,9 @@ sections:
           - "Planning Applications & Drawings\_- Site layouts, elevations, and technical plans for submission."
           - "Building Regulations Compliance\_- Ensuring designs meet structural, fire safety, and accessibility standards."
           - "New Builds & Extensions\_- Concept to completion for residential or mixed-use developments."
-          - Feature four
+          - >-
+            Feasibility Studies – Assessing site potential, constraints, and
+            development options.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
