@@ -44,9 +44,10 @@ sections:
       - title: Professional
         price: ''
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          **Upgrading homes for energy efficiency and future resilience.**
+
+
         features:
           - Feature one
           - Feature two
