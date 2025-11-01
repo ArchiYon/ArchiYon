@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: 'Architecture. Retrofit. Design. '
     plans:
-      - title: Developers
+      - title: Architecture.
         price: Free
         details: No credit card required
         description: >-
