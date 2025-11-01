@@ -87,7 +87,9 @@ sections:
           vision.**
         features:
           - 'Concept Development – Mood boards, sketches, and spatial strategies.'
-          - Feature two
+          - >-
+            Material & Finish Selection – Coordinated palettes for durability
+            and aesthetic harmony.
           - Feature three
           - Feature four
           - Feature five
