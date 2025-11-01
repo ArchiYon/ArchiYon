@@ -58,7 +58,9 @@ sections:
           - >-
             Scenario Modelling – Comparing measure combinations (e.g.
             insulation, glazing, heating) for cost-effectiveness and impact.
-          - Feature four
+          - >-
+            Installer Briefings – Clear, actionable documentation for
+            contractors and trades.
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
