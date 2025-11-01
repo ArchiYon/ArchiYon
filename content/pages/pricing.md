@@ -96,7 +96,9 @@ sections:
           - >-
             Brand-Integrated Spaces – For businesses, aligning physical design
             with identity.
-          - Feature five
+          - >-
+            Digital Workflow Integration – Modular documentation and visual
+            assets for clarity and collaboration.
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
