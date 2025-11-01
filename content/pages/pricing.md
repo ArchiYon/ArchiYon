@@ -90,7 +90,9 @@ sections:
           - >-
             Material & Finish Selection – Coordinated palettes for durability
             and aesthetic harmony.
-          - Feature three
+          - >-
+            User-Centric Detailing – Layouts that support accessibility, flow,
+            and wellbeing.
           - Feature four
           - Feature five
         image:
