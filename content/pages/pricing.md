@@ -15,7 +15,7 @@ sections:
         price: ''
         details: ''
         description: |
-          **Designing spaces with purpose, compliance, and clarit**
+          **Designing spaces with purpose, compliance, and clarity.** 
         features:
           - Feature one
           - Feature two
