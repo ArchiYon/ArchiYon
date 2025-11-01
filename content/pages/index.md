@@ -11,7 +11,7 @@ sections:
       Strategic retrofit architecture for real world performance and regulatory
       alignment
     text: >
-      ArchiYon is a Bristol-based architecture firm specialising in PAS 2035
+      ArchiYon is a Bristol-based architecture practice specialising in PAS 2035
       retrofit design and coordination. We deliver scenario-based planning,
       measure sequencing, and technical documentation that empowers installers,
       clients, and stakeholders. Our modular approach ensures clarity,
