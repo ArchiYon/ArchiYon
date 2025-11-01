@@ -27,7 +27,7 @@ sections:
             Design & Access Statements – Supporting documents for planning
             clarity and approval.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/ArchiYon_Logo - R01.1 jpg.jpg
           altText: Architecture.
           type: ImageBlock
         actions: []
