@@ -116,7 +116,7 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Demo site
+  metaTitle: 'ArchiYon | PAS 2035 Retrofit Design & Coordination '
   metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
