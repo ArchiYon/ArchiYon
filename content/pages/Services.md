@@ -1,5 +1,5 @@
 ---
-title: 'Services '
+title: Pricing
 slug: /Services
 sections:
   - title:
