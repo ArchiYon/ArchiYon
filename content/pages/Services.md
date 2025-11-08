@@ -3,7 +3,7 @@ title: 'Services '
 slug: /Services
 sections:
   - title:
-      text: Services
+      text: Pricing
       color: text-dark
       styles:
         self:
