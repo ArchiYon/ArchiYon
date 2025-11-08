@@ -1,6 +1,6 @@
 ---
 title: Pricing
-slug: /Services
+slug: /Pricing
 sections:
   - title:
       text: Pricing
